@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Gustavo Calce 🖐️
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
+![Gustavo Calce GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Calce&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
